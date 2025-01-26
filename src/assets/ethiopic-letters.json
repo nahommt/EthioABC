@@ -1,8 +1,65 @@
 [
-    { "id": 1, "letter": "ሀ", "pronunciation": "ha" },
-    { "id": 2, "letter": "ለ", "pronunciation": "le" },
-    { "id": 3, "letter": "ሐ", "pronunciation": "ḥa" },
-    { "id": 4, "letter": "መ", "pronunciation": "me" },
-    { "id": 5, "letter": "ረ", "pronunciation": "re" }
-  ]
-  
+    { "id": 1, "letter": "ሀ", "pronunciation": "hä" },
+    { "id": 2, "letter": "ሁ", "pronunciation": "hu" },
+    { "id": 3, "letter": "ሂ", "pronunciation": "hi" },
+    { "id": 4, "letter": "ሃ", "pronunciation": "hä" },
+    { "id": 5, "letter": "ሄ", "pronunciation": "hē" },
+    { "id": 6, "letter": "ህ", "pronunciation": "hə" },
+    { "id": 7, "letter": "ሆ", "pronunciation": "ho" },
+    
+    { "id": 8, "letter": "ለ", "pronunciation": "lä" },
+    { "id": 9, "letter": "ሉ", "pronunciation": "lu" },
+    { "id": 10, "letter": "ሊ", "pronunciation": "li" },
+    { "id": 11, "letter": "ላ", "pronunciation": "lä" },
+    { "id": 12, "letter": "ሌ", "pronunciation": "lē" },
+    { "id": 13, "letter": "ል", "pronunciation": "lə" },
+    { "id": 14, "letter": "ሎ", "pronunciation": "lo" },
+    
+    { "id": 15, "letter": "ሐ", "pronunciation": "ḥä" },
+    { "id": 16, "letter": "ሑ", "pronunciation": "ḥu" },
+    { "id": 17, "letter": "ሒ", "pronunciation": "ḥi" },
+    { "id": 18, "letter": "ሓ", "pronunciation": "ḥä" },
+    { "id": 19, "letter": "ሔ", "pronunciation": "ḥē" },
+    { "id": 20, "letter": "ሕ", "pronunciation": "ḥə" },
+    { "id": 21, "letter": "ሖ", "pronunciation": "ḥo" },
+    
+    { "id": 22, "letter": "መ", "pronunciation": "mä" },
+    { "id": 23, "letter": "ሙ", "pronunciation": "mu" },
+    { "id": 24, "letter": "ሚ", "pronunciation": "mi" },
+    { "id": 25, "letter": "ማ", "pronunciation": "mä" },
+    { "id": 26, "letter": "ሜ", "pronunciation": "mē" },
+    { "id": 27, "letter": "ም", "pronunciation": "mə" },
+    { "id": 28, "letter": "ሞ", "pronunciation": "mo" },
+    
+    { "id": 29, "letter": "ረ", "pronunciation": "rä" },
+    { "id": 30, "letter": "ሩ", "pronunciation": "ru" },
+    { "id": 31, "letter": "ሪ", "pronunciation": "ri" },
+    { "id": 32, "letter": "ራ", "pronunciation": "rä" },
+    { "id": 33, "letter": "ሬ", "pronunciation": "rē" },
+    { "id": 34, "letter": "ር", "pronunciation": "rə" },
+    { "id": 35, "letter": "ሮ", "pronunciation": "ro" },
+
+    { "id": 36, "letter": "ሰ", "pronunciation": "sä" },
+    { "id": 37, "letter": "ሱ", "pronunciation": "su" },
+    { "id": 38, "letter": "ሲ", "pronunciation": "si" },
+    { "id": 39, "letter": "ሳ", "pronunciation": "sä" },
+    { "id": 40, "letter": "ሴ", "pronunciation": "sē" },
+    { "id": 41, "letter": "ስ", "pronunciation": "sə" },
+    { "id": 42, "letter": "ሶ", "pronunciation": "so" },
+
+    { "id": 43, "letter": "ቀ", "pronunciation": "qä" },
+    { "id": 44, "letter": "ቁ", "pronunciation": "qu" },
+    { "id": 45, "letter": "ቂ", "pronunciation": "qi" },
+    { "id": 46, "letter": "ቃ", "pronunciation": "qä" },
+    { "id": 47, "letter": "ቄ", "pronunciation": "qē" },
+    { "id": 48, "letter": "ቅ", "pronunciation": "qə" },
+    { "id": 49, "letter": "ቆ", "pronunciation": "qo" },
+
+    { "id": 50, "letter": "በ", "pronunciation": "bä" },
+    { "id": 51, "letter": "ቡ", "pronunciation": "bu" },
+    { "id": 52, "letter": "ቢ", "pronunciation": "bi" },
+    { "id": 53, "letter": "ባ", "pronunciation": "bä" },
+    { "id": 54, "letter": "ቤ", "pronunciation": "bē" },
+    { "id": 55, "letter": "ብ", "pronunciation": "bə" },
+    { "id": 56, "letter": "ቦ", "pronunciation": "bo" }
+]
