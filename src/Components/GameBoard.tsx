@@ -16,7 +16,7 @@ export default function GameBoard() {
   }, []);
 
   return (
-    <div style={{ display: "grid", gridTemplateColumns: "repeat(3, 1fr)", gap: "20px" }}>
+    <div style={{ display: "grid", gridTemplateColumns: "repeat(7, 1fr)", gap: "20px" }}>
       {letters.map((item) => (
         <Card key={item.id} letter={item.letter} pronunciation={item.pronunciation} />
       ))}
